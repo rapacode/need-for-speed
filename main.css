@@ -19,4 +19,12 @@ body{ text-align: justify;
       	nfs2.jpg);
 
    }
-
+/* Mobile Styles */
+@media only screen and (max-width: 600px) {
+    body {
+        font-size: 14px;
+    }
+    .container {
+        padding: 10px;
+    }
+}
