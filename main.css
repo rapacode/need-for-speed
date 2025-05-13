@@ -1,0 +1,22 @@
+
+	h1{font-family:georgia, serif;
+		font-size: 100px;
+		font-variant:small-caps ;
+		color: beige;
+
+
+		text-align: center;
+		font-style: italic;
+text-shadow: aliceblue;
+;}
+
+body{ text-align: justify;
+	      font-family:georgia, serif;
+                 font-style: italic;
+      line-height: 30px;
+      text-transform: capitalize;
+      background-image: url(
+      	nfs2.jpg);
+
+   }
+
